@@ -1,4 +1,4 @@
-# [Alt Vision](https://altvision.vercel.app/)  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Stars](https://img.shields.io/github/stars/naveenjujaray/ALT-VISION?color=yellow&style=plastic)](https://github.com/naveenjujaray/ALT-VISION/stargazers) [![forks](https://img.shields.io/github/forks/naveenjujaray/ALT-VISION?color=green&style=plastic)](https://github.com/naveenjujaray/ALT-VISION/network/members)
+# [Alt Vision](https://altvision.vercel.app/)  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Stars](https://img.shields.io/github/stars/naveenjujaray/ALT-VISION?color=yellow&style=plastic)](https://github.com/naveenjujaray/ALT-VISION/stargazers) [![forks](https://img.shields.io/github/forks/naveenjujaray/ALT-VISION?color=green&style=plastic)](https://github.com/naveenjujaray/ALT-VISION/network/members) [![Buy me coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-orange)](https://www.buymeacoffee.com/naveenjujaray)
 A smart magnifying glass!
 
 You use Google search in digital world.
