@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022650584134",
+    "firebase_url": "https://supervision528.firebaseio.com",
+    "project_id": "supervision528",
+    "storage_bucket": "supervision528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022650584134:android:0c983032272197655ece47",
+        "android_client_info": {
+          "package_name": "com.naveenjujaray.altsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022650584134-kan5s01vk51tt8oo8fhn7fr0ftn4lp7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naveenjujaray.altsearch",
+            "certificate_hash": "970ff48bd008c8b02bec93218e0c907cd1d1adf7"
+          }
+        },
+        {
+          "client_id": "1022650584134-t6j8lc0pauqd3inb34annfocoe2u7n3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEOL_Zvo_6qqaIReRONygeemqtJGCQWtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022650584134-t6j8lc0pauqd3inb34annfocoe2u7n3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

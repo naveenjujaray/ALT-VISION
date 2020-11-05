@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint">Ricerca</string>
+    <string name="Button_Ocr_Text">Modalità</string>
+    <string name="chooseButton">Opzioni</string>
+    <string name="app_label">Alt Vision</string>
+    <string name="w1">Si prega di inserire una query</string>
+    <string name="w2">Alla ricerca di</string>
+    <string name="w3">non si trova</string>
+    <string name="w4">trovato in</string>
+    <string name="w5">posizioni</string>
+    <string name="w6">trovato in 1 posizione</string>
+    <string name="w7">trovato in</string>
+    <string name="w8">posizioni</string>
+    <string name="w9">trovato in 1 posizione</string>
+    <string name="w10">non è presente</string>
+    <string name="w11">non è presente</string>
+    <string name="w12">trovato in una posizione</string>
+    <string name="w13">trovato in</string>
+    <string name="w14">posizioni</string>
+    <string name="w15">trovato in 1 posizione</string>
+    <string name="w16">La parola non è stata trovata</string>
+    <string name="w17">La parola non è stata trovata</string>
+    <string name="w18">La parola non è stata trovata</string>
+    <string name="w19">Si prega di inserire una query</string>
+    <string name="w20">Alla ricerca di</string>
+    <string name="w21">non si trova</string>
+    <string name="w22">trovato in</string>
+    <string name="w23">posizioni</string>
+    <string name="w24">trovato in 1 posizione</string>
+    <string name="w25">non si trova</string>
+    <string name="w26">trovato in</string>
+    <string name="w27">posizioni</string>
+    <string name="w28">trovato in 1 posizione</string>
+    <string name="w29">Trovare nellintero schermo</string>
+    <string name="w30">Trovare al centro</string>
+    <string name="w31">Trovare in cima</string>
+    <string name="w32">Trovare in fondo</string>
+    <string name="w33">Lingua modificata in</string>
+    <string name="w34">Trovare nellintero schermo</string>
+    <string name="w35">Trovare nel centro Slice</string>
+    <string name="w36">Si prega di inserire una query</string>
+    <string name="w37">non si trova</string>
+    <string name="w38">non si trova</string>
+    <string name="w39">trovato in</string>
+    <string name="w40">posizioni</string>
+    <string name="w41">trovato in 1 posizione</string>
+    <string name="w42">Si prega di inserire una query</string>
+    <string name="w43">non si trova</string>
+    <string name="w44">Si prega di inserire una query</string>
+    <string name="w45">non si trova</string>
+    <string name="w46">trovato in</string>
+    <string name="w47">posizioni</string>
+    <string name="w48">trovato in 1 posizione</string>
+    <string name="m1">Scan Slice</string>
+    <string name="m2">Informazioni</string>
+    <string name="m3">Seleziona lingua</string>
+    <string name="filename">file:///android_res/raw/infopage_it.html</string>
+    <string-array name="spinnerArray">
+        <item>NONE</item>
+        <item>CENTER</item>
+        <item>VERTICAL</item>
+        <item>HORIZONTAL</item>
+    </string-array>
+    <string name="Language">Lingua</string>
+    <string name="l2">Spagnolo</string>
+    <string name="l1">Inglese</string>
+    <string name="l3">Italiano</string>
+    <string name="l4">Tedesco</string>
+    <string name="l5">Francese</string>
+    <string name="l6">Danese</string>
+    <string name="l7">Portoghese</string>
+    <string name="m4">Orientamento</string>
+</resources>

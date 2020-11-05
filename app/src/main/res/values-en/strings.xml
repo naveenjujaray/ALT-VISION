@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint">Search</string>
+    <string name="Button_Ocr_Text">Mode</string>
+    <string name="chooseButton">Options</string>
+    <string name="app_label">Alt Vision</string>
+    <string name="w1">Please enter query</string>
+    <string name="w2">Searching for</string>
+    <string name="w3">is not found</string>
+    <string name="w4">found in</string>
+    <string name="w5">locations</string>
+    <string name="w6">found in 1 location</string>
+    <string name="w7">found in</string>
+    <string name="w8">locations</string>
+    <string name="w9">found in 1 location</string>
+    <string name="w10">is not present</string>
+    <string name="w11">is not present</string>
+    <string name="w12">found in one location</string>
+    <string name="w13">found in</string>
+    <string name="w14">locations</string>
+    <string name="w15">found in 1 location</string>
+    <string name="w16">Word is not Found</string>
+    <string name="w17">Word is not Found</string>
+    <string name="w18">Word is not found</string>
+    <string name="w19">Please enter query</string>
+    <string name="w20">Searching for</string>
+    <string name="w21">is not found</string>
+    <string name="w22">found in</string>
+    <string name="w23">locations</string>
+    <string name="w24">found in 1 location</string>
+    <string name="w25">is not found</string>
+    <string name="w26">found in</string>
+    <string name="w27">locations</string>
+    <string name="w28">found in 1 location</string>
+    <string name="w29">Finding in the Whole Screen</string>
+    <string name="w30">Finding at the Center</string>
+    <string name="w31">Finding at the Top</string>
+    <string name="w32">Finding at the Bottom</string>
+    <string name="w33">Language changed to</string>
+    <string name="w34">Finding in the Whole Screen</string>
+    <string name="w35">Finding in the Center Slice</string>
+    <string name="w36">Please enter query</string>
+    <string name="w37">is not found</string>
+    <string name="w38">is not found</string>
+    <string name="w39">found in</string>
+    <string name="w40">locations</string>
+    <string name="w41">found in 1 location</string>
+    <string name="w42">Please enter query</string>
+    <string name="w43">is not found</string>
+    <string name="w44">Please enter query</string>
+    <string name="w45">is not found</string>
+    <string name="w46">found in</string>
+    <string name="w47">locations</string>
+    <string name="w48">found in 1 location</string>
+    <string name="m1">Scan Slice</string>
+    <string name="m2">Info</string>
+    <string name="m3">Language Select</string>
+    <string name="filename">file:///android_res/raw/infopage.html</string>
+    <string-array name="spinnerArray">
+        <item>NONE</item>
+        <item>CENTER</item>
+        <item>VERTICAL</item>
+        <item>HORIZONTAL</item>
+    </string-array>
+    <string name="Language">Language</string>
+    <string name="l1">English</string>
+    <string name="l2">Spanish</string>
+    <string name="l3">Italian</string>
+    <string name="l4">German</string>
+    <string name="l5">French</string>
+    <string name="l7">Portuguese</string>
+    <string name="l6">Danish</string>
+    <string name="m4">Orientation</string>
+</resources>

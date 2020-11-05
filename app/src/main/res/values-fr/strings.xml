@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint">Chercher</string>
+    <string name="Button_Ocr_Text">Mode</string>
+    <string name="chooseButton">Les options</string>
+    <string name="app_label">Alt Vision</string>
+    <string name="w1">Veuillez entrer la requête</string>
+    <string name="w2">À la recherche de</string>
+    <string name="w3">n\'est pas trouvé</string>
+    <string name="w4">trouvé dans</string>
+    <string name="w5">Emplacements</string>
+    <string name="w6">trouvé dans 1 endroit</string>
+    <string name="w7">trouvé dans</string>
+    <string name="w8">Emplacements</string>
+    <string name="w9">trouvé dans 1 endroit</string>
+    <string name="w10">n\'est pas présent</string>
+    <string name="w11">n\'est pas présent</string>
+    <string name="w12">trouvé dans un endroit</string>
+    <string name="w13">trouvé dans</string>
+    <string name="w14">Emplacements</string>
+    <string name="w15">trouvé dans 1 endroit</string>
+    <string name="w16">Le mot n\'est pas trouvé</string>
+    <string name="w17">Le mot n\'est pas trouvé</string>
+    <string name="w18">Word n\'est pas trouvé</string>
+    <string name="w19">Veuillez entrer la requête</string>
+    <string name="w20">À la recherche de</string>
+    <string name="w21">n\'est pas trouvé</string>
+    <string name="w22">trouvé dans</string>
+    <string name="w23">Emplacements</string>
+    <string name="w24">trouvé dans 1 endroit</string>
+    <string name="w25">n\'est pas trouvé</string>
+    <string name="w26">trouvé dans</string>
+    <string name="w27">Emplacements</string>
+    <string name="w28">trouvé dans 1 endroit</string>
+    <string name="w29">Trouver dans tout l\'écran</string>
+    <string name="w30">Trouver au centre</string>
+    <string name="w31">Trouver en haut</string>
+    <string name="w32">Trouver au fond</string>
+    <string name="w33">Langue changée en</string>
+    <string name="w34">Trouver dans tout l\'écran</string>
+    <string name="w35">Trouver dans la tranche centrale</string>
+    <string name="w36">Veuillez entrer la requête</string>
+    <string name="w37">n\'est pas trouvé</string>
+    <string name="w38">n\'est pas trouvé</string>
+    <string name="w39">trouvé dans</string>
+    <string name="w40">Emplacements</string>
+    <string name="w41">trouvé dans 1 endroit</string>
+    <string name="w42">Veuillez entrer la requête</string>
+    <string name="w43">n\'est pas trouvé</string>
+    <string name="w44">Veuillez entrer la requête</string>
+    <string name="w45">n\'est pas trouvé</string>
+    <string name="w46">trouvé dans</string>
+    <string name="w47">Emplacements</string>
+    <string name="w48">trouvé dans 1 endroit</string>
+    <string name="m1">Tranche de numérisation</string>
+    <string name="m2">Info</string>
+    <string name="m3">Sélection de la langue</string>
+    <string name="filename">file:///android_res/raw/infopage_fr.html</string>
+    <string-array name="spinnerArray">
+        <item>NONE</item>
+        <item>CENTER</item>
+        <item>VERTICAL</item>
+        <item>HORIZONTAL</item>
+    </string-array>
+    <string name="Language">Langue</string>
+    <string name="l5">Français</string>
+    <string name="l4">Allemand</string>
+    <string name="l3">Italien</string>
+    <string name="l1">Anglais</string>
+    <string name="l2">Espanol</string>
+    <string name="l7">Portugais</string>
+    <string name="l6">Danois</string>
+    <string name="m4">Orientation</string>
+</resources>

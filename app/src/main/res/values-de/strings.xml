@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint">Suche</string>
+    <string name="Button_Ocr_Text">Modus</string>
+    <string name="chooseButton">Optionen</string>
+    <string name="app_label">Alt Vision</string>
+    <string name="w1">Bitte geben Sie eine Anfrage ein</string>
+    <string name="w2">Auf der Suche nach</string>
+    <string name="w3">wurde nicht gefunden</string>
+    <string name="w4">gefunden in</string>
+    <string name="w5">Standorte</string>
+    <string name="w6">an 1 Stelle gefunden</string>
+    <string name="w7">gefunden in</string>
+    <string name="w8">Standorte</string>
+    <string name="w9">an 1 Stelle gefunden</string>
+    <string name="w10">ist nicht hier</string>
+    <string name="w11">ist nicht hier</string>
+    <string name="w12">an einem Ort gefunden</string>
+    <string name="w13">gefunden in</string>
+    <string name="w14">Standorte</string>
+    <string name="w15">an 1 Stelle gefunden</string>
+    <string name="w16">Wort wird nicht gefunden</string>
+    <string name="w17">Wort wird nicht gefunden</string>
+    <string name="w18">Wort wird nicht gefunden</string>
+    <string name="w19">Bitte geben Sie eine Anfrage ein</string>
+    <string name="w20">Auf der Suche nach</string>
+    <string name="w21">wurde nicht gefunden</string>
+    <string name="w22">gefunden in</string>
+    <string name="w23">Standorte</string>
+    <string name="w24">an 1 Stelle gefunden</string>
+    <string name="w25">wurde nicht gefunden</string>
+    <string name="w26">gefunden in</string>
+    <string name="w27">Standorte</string>
+    <string name="w28">an 1 Stelle gefunden</string>
+    <string name="w29">Auf dem ganzen Bildschirm finden</string>
+    <string name="w30">Im Zentrum finden</string>
+    <string name="w31">An der Spitze finden</string>
+    <string name="w32">Unten finden</string>
+    <string name="w33">Sprache geändert zu</string>
+    <string name="w34">Auf dem ganzen Bildschirm finden</string>
+    <string name="w35">Finden in der Mitte Slice</string>
+    <string name="w36">Bitte geben Sie eine Anfrage ein</string>
+    <string name="w37">wurde nicht gefunden</string>
+    <string name="w38">wurde nicht gefunden</string>
+    <string name="w39">gefunden in</string>
+    <string name="w40">Standorte</string>
+    <string name="w41">an 1 Stelle gefunden</string>
+    <string name="w42">Bitte geben Sie eine Anfrage ein</string>
+    <string name="w43">wurde nicht gefunden</string>
+    <string name="w44">Bitte geben Sie eine Anfrage ein</string>
+    <string name="w45">wurde nicht gefunden</string>
+    <string name="w46">gefunden in</string>
+    <string name="w47">Standorte</string>
+    <string name="w48">an 1 Stelle gefunden</string>
+    <string name="m1">Scan-Schnitt</string>
+    <string name="m2">Info</string>
+    <string name="m3">Sprache auswählen</string>
+    <string name="Language">Sprache</string>
+    <string name="l1">Englisch</string>
+    <string name="l2">Spanisch</string>
+    <string name="l3">Italienisch</string>
+    <string name="l4">Deutsche</string>
+    <string name="l5">Französisch</string>
+    <string name="filename">file:///android_res/raw/infopage_de.html</string>
+    <string-array name="spinnerArray">
+        <item>NONE</item>
+        <item>CENTER</item>
+        <item>VERTICAL</item>
+        <item>HORIZONTAL</item>
+    </string-array>
+    <string name="l7">Portugiesisch</string>
+    <string name="l6">Dänisch</string>
+    <string name="m4">Orientierung</string>
+</resources>

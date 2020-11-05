@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint">Søg</string>
+    <string name="Button_Ocr_Text">Mode</string>
+    <string name="chooseButton">Muligheder</string>
+    <string name="app_label">Alt Vision</string>
+    <string name="w1">Indtast venligst forespørgsel</string>
+    <string name="w2">leder efter</string>
+    <string name="w3">findes ikke</string>
+    <string name="w4">fundet i</string>
+    <string name="w5">placeringer</string>
+    <string name="w6">fundet på 1 placering</string>
+    <string name="w7">fundet i</string>
+    <string name="w8">placeringer</string>
+    <string name="w9">fundet på 1 placering</string>
+    <string name="w10">er ikke til stede</string>
+    <string name="w11">er ikke til stede</string>
+    <string name="w12">fundet på ét sted</string>
+    <string name="w13">fundet i</string>
+    <string name="w14">placeringer</string>
+    <string name="w15">fundet på 1 placering</string>
+    <string name="w16">Ord er ikke fundet</string>
+    <string name="w17">Ord er ikke fundet</string>
+    <string name="w18">Ord findes ikke</string>
+    <string name="w19">Indtast venligst forespørgsel</string>
+    <string name="w20">leder efter</string>
+    <string name="w21">findes ikke</string>
+    <string name="w22">fundet i</string>
+    <string name="w23">placeringer</string>
+    <string name="w24">fundet på 1 placering</string>
+    <string name="w25">findes ikke</string>
+    <string name="w26">fundet i</string>
+    <string name="w27">placeringer</string>
+    <string name="w28">fundet på 1 placering</string>
+    <string name="w29">Finde i hele skærmen</string>
+    <string name="w30">At finde på centret</string>
+    <string name="w31">Finde i toppen</string>
+    <string name="w32">Finde ved bunden</string>
+    <string name="w33">Sprog ændret til</string>
+    <string name="w34">Finde i hele skærmen</string>
+    <string name="w35">Find i Center Slice</string>
+    <string name="w36">Indtast venligst forespørgsel</string>
+    <string name="w37">findes ikke</string>
+    <string name="w38">findes ikke</string>
+    <string name="w39">fundet i</string>
+    <string name="w40">placeringer</string>
+    <string name="w41">fundet på 1 placering</string>
+    <string name="w42">Indtast venligst forespørgsel</string>
+    <string name="w43">findes ikke</string>
+    <string name="w44">Indtast venligst forespørgsel</string>
+    <string name="w45">findes ikke</string>
+    <string name="w46">fundet i</string>
+    <string name="w47">placeringer</string>
+    <string name="w48">fundet på 1 placering</string>
+    <string name="m1">Scan skive</string>
+    <string name="m2">Info</string>
+    <string name="m3">Vælg sprog</string>
+    <string name="Language">Sprog</string>
+    <string name="l1">Engelsk</string>
+    <string name="l2">Spansk</string>
+    <string name="l3">Italiensk</string>
+    <string name="l4">Tysk</string>
+    <string name="l5">Fransk</string>
+    <string name="l6">Dansk</string>
+    <string name="l7">Portugisisk</string>
+    <string name="filename">file:///android_res/raw/infopage_da.html</string>
+    <string-array name="spinnerArray">
+        <item>NONE</item>
+        <item>CENTER</item>
+        <item>VERTICAL</item>
+        <item>HORIZONTAL</item>
+    </string-array>
+    <string name="m4">Orientering</string>
+</resources>

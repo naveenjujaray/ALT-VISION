@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/setScheme"
+        android:icon="@drawable/zoom"
+        android:title="@string/m1"
+        android:checkable="true"/>
+    <item android:id="@+id/orientationScan"
+        android:icon="@drawable/screen"
+        android:title="@string/m4" />
+    <item android:id="@+id/language"
+        android:icon="@drawable/language"
+        android:title="@string/m3" />
+    <item android:id="@+id/infoPopup"
+        android:icon="@drawable/info"
+        android:title="@string/m2"/>
+</menu>

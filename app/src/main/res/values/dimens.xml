@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">490dp</dimen>
+    <dimen name="marginLayout">370dp</dimen>
+    <dimen name="size">60dp</dimen>
+    <dimen name="zoom_size">80dp</dimen>
+    <dimen name="sideMargin">10dp</dimen>
+    <dimen name="seek_bar_thickness">8dp</dimen>
+    <dimen name="seek_bar_thumb_size">20dp</dimen>
+    <dimen name="width">250dp</dimen>
+</resources>

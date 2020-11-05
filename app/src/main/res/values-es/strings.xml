@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint">Buscar</string>
+    <string name="Button_Ocr_Text">Modo</string>
+    <string name="chooseButton">Opciones</string>
+    <string name="app_label">Alt Vision</string>
+    <string name="w1">Por favor ingrese la consulta</string>
+    <string name="w2">Buscando</string>
+    <string name="w3">no se encuentra</string>
+    <string name="w4">encontrado en</string>
+    <string name="w5">ubicaciones</string>
+    <string name="w6">encontrado en 1 ubicación</string>
+    <string name="w7">encontrado en</string>
+    <string name="w8">ubicaciones</string>
+    <string name="w9">encontrado en 1 ubicación</string>
+    <string name="w10">no es presente</string>
+    <string name="w11">no es presente</string>
+    <string name="w12">encontrado en una ubicación</string>
+    <string name="w13">encontrado en</string>
+    <string name="w14">ubicaciones</string>
+    <string name="w15">encontrado en 1 ubicación</string>
+    <string name="w16">Word no se encuentra</string>
+    <string name="w17">Word no se encuentra</string>
+    <string name="w18">Word no se encuentra</string>
+    <string name="w19">Por favor ingrese la consulta</string>
+    <string name="w20">Buscando</string>
+    <string name="w21">no se encuentra</string>
+    <string name="w22">encontrado en</string>
+    <string name="w23">ubicaciones</string>
+    <string name="w24">encontrado en 1 ubicación</string>
+    <string name="w25">no se encuentra</string>
+    <string name="w26">encontrado en</string>
+    <string name="w27">ubicaciones</string>
+    <string name="w28">encontrado en 1 ubicación</string>
+    <string name="w29">Encontrando en toda la pantalla</string>
+    <string name="w30">Encontrar en el centro</string>
+    <string name="w31">Encontrar en la cima</string>
+    <string name="w32">Encontrar en la parte inferior</string>
+    <string name="w33">El idioma cambió a</string>
+    <string name="w34">Encontrando en toda la pantalla</string>
+    <string name="w35">Encontrando en el Centro Slice</string>
+    <string name="w36">Por favor ingrese la consulta</string>
+    <string name="w37">no se encuentra</string>
+    <string name="w38">no se encuentra</string>
+    <string name="w39">encontrado en</string>
+    <string name="w40">ubicaciones</string>
+    <string name="w41">encontrado en 1 ubicación</string>
+    <string name="w42">Por favor ingrese la consulta</string>
+    <string name="w43">no se encuentra</string>
+    <string name="w44">Por favor ingrese la consulta</string>
+    <string name="w45">no se encuentra</string>
+    <string name="w46">encontrado en</string>
+    <string name="w47">ubicaciones</string>
+    <string name="w48">encontrado en 1 ubicación</string>
+    <string name="m1">Escanear rebanada</string>
+    <string name="m2">Información</string>
+    <string name="m3">Selección de idioma</string>
+    <string name="filename">file:///android_res/raw/infopage_es.html</string>
+    <string-array name="spinnerArray">
+        <item>NONE</item>
+        <item>CENTER</item>
+        <item>VERTICAL</item>
+        <item>HORIZONTAL</item>
+    </string-array>
+    <string name="Language">Idioma</string>
+    <string name="l5">Francés</string>
+    <string name="l4">Alemán</string>
+    <string name="l3">Italiano</string>
+    <string name="l2">Español</string>
+    <string name="l1">Inglés</string>
+    <string name="l7">Portugués</string>
+    <string name="l6">Danés</string>
+    <string name="m4">Orientación</string>
+</resources>
